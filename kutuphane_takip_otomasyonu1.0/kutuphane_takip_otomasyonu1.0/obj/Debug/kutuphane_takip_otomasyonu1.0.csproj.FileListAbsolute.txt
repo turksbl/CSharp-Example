@@ -1,0 +1,144 @@
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\DevComponents.DotNetBar.Design.dll
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\DevComponents.Instrumentation.Design.dll
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\DevComponents.Instrumentation.dll
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+c:\users\asus\documents\visual studio 2017\Projects\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Anaform.resources
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Anaform.resources
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\Bote\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uye_ekle.resources
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Anaform.resources
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uye_ekle.resources
+C:\Users\HAKAN\Desktop\İFRAN HOCA\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.anaForm.resources
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeEkle.resources
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncEkle.resources
+C:\Users\HAKAN\Desktop\Programalama Proje\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarEkle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.anaForm.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncEkle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeEkle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarEkle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapEkle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncGuncelle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeGuncelle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarGuncelle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.cezaGuncelle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapGuncelle.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.dll
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.xml
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.bizeUlasin.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreGonder.resources
+C:\Users\Fatih\Desktop\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreDegisiklik.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.dll
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.xml
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.anaForm.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.bizeUlasin.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.cezaGuncelle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapEkle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapGuncelle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncEkle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncGuncelle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreGonder.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreDegisiklik.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeEkle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeGuncelle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarEkle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarGuncelle.resources
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.xml
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.anaForm.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.bizeUlasin.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.cezaGuncelle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapEkle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapGuncelle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncEkle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncGuncelle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreGonder.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreDegisiklik.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeEkle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeGuncelle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarEkle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarGuncelle.resources
+C:\Users\ismail\Desktop\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe.config
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\kutuphane_takip_otomasyonu1.0.pdb
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.dll
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\bin\Debug\MySql.Data.xml
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.anaForm.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.bizeUlasin.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.cezaGuncelle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapEkle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.kitapGuncelle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.login.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncEkle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.oduncGuncelle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.Properties.Resources.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreGonder.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.sifreDegisiklik.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeEkle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.uyeGuncelle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarEkle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1._0.yazarGuncelle.resources
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.exe
+C:\Users\Fatih\Desktop\en  son\kto\kto\kto\kutuphane_takip_otomasyonu1.0\kutuphane_takip_otomasyonu1.0\obj\Debug\kutuphane_takip_otomasyonu1.0.pdb

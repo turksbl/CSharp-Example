@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1F000DB-96CC-4E6F-B19E-3BB3EA9F78F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>kutuphane_takip_otomasyonu1._0</RootNamespace>
+    <AssemblyName>kutuphane_takip_otomasyonu1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Design">
+      <HintPath>..\..\..\..\..\Desktop\Dll Files\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\..\Desktop\Dll Files\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation">
+      <HintPath>..\..\..\..\..\Desktop\Dll Files\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation.Design">
+      <HintPath>..\..\..\..\..\Desktop\Dll Files\DevComponents.Instrumentation.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anaForm.Designer.cs">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bizeUlasin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bizeUlasin.Designer.cs">
+      <DependentUpon>bizeUlasin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cezaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cezaGuncelle.Designer.cs">
+      <DependentUpon>cezaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ini.cs" />
+    <Compile Include="kitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapEkle.Designer.cs">
+      <DependentUpon>kitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapGuncelle.Designer.cs">
+      <DependentUpon>kitapGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oduncEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oduncEkle.Designer.cs">
+      <DependentUpon>oduncEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oduncGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oduncGuncelle.Designer.cs">
+      <DependentUpon>oduncGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sifreGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifreGonder.Designer.cs">
+      <DependentUpon>sifreGonder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremiUnuttum.Designer.cs">
+      <DependentUpon>sifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeEkle.Designer.cs">
+      <DependentUpon>uyeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeGuncelle.Designer.cs">
+      <DependentUpon>uyeGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarEkle.Designer.cs">
+      <DependentUpon>yazarEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarGuncelle.Designer.cs">
+      <DependentUpon>yazarGuncelle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anaForm.resx">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bizeUlasin.resx">
+      <DependentUpon>bizeUlasin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cezaGuncelle.resx">
+      <DependentUpon>cezaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapEkle.resx">
+      <DependentUpon>kitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapGuncelle.resx">
+      <DependentUpon>kitapGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oduncEkle.resx">
+      <DependentUpon>oduncEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oduncGuncelle.resx">
+      <DependentUpon>oduncGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sifreGonder.resx">
+      <DependentUpon>sifreGonder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifremiUnuttum.resx">
+      <DependentUpon>sifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyeEkle.resx">
+      <DependentUpon>uyeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyeGuncelle.resx">
+      <DependentUpon>uyeGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarEkle.resx">
+      <DependentUpon>yazarEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarGuncelle.resx">
+      <DependentUpon>yazarGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-file-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-list-add-user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-list-remove-user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-properties-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ceza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File-Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text-Edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-facebook-box-blue-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-facebook-box-blue-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Active-Instagram-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1495595768_password.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
